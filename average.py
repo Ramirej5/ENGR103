@@ -10,6 +10,6 @@ num3 = float(input())
 num4 = float(input())
 num5 = float(input())
 
-avg1 = (num1+num2+num3+num4+num5)/5
+avg1 = float(num1+num2+num3+num4+num5)/5
 print("The average of those numbers is: ", avg1)
 
